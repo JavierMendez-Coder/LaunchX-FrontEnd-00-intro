@@ -56,7 +56,6 @@
 
 
 
----
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -187,7 +186,6 @@ Yeah, I know it doesn't look quite impresive, but that was my best effort. (⊙_
 
 
 
----
 <!-- CONTACT -->
 ## Contact
 

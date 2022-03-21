@@ -12,7 +12,7 @@
 <h3 align="center">Launch X - Front-end INTRO</h3>
 
   <p align="center">
-    Assignments from the first week of Launch X's frontend introduction course.
+    Assignments from the first week of Launch X's frontend introduction course
     <br />
     <a href="https://github.com/javiermendez-coder/LaunchX-FrontEnd-00-intro"><strong>Explore the docs »</strong></a>
     <br />
@@ -95,7 +95,7 @@ Yes, this Gantt chart may seem too optimistic. Nevertheless, this is nothing but
 
 ### Creation of our buyer persona.
 
-Something I would like to clarify first is that I created the buyer persona after defining my target audience, since (at least for me) is easier to use the general-to-specific order. With this already clarified I can start explaining my though process to create the buyer persona. 
+Something I would like to clarify first is that I created the buyer persona after defining my target audience, since (at least for me) is easier to use the general-to-specific order. With this already clarified I can start explaining my thought process to create the buyer persona. 
 
 - The buyer persona has to be familiarized with the concept of internet and online processes, so he/she won't struggle trying to understand what the purpouse of the web page is and how to use it.
 
@@ -103,9 +103,9 @@ Something I would like to clarify first is that I created the buyer persona afte
 
 - The buyer persona has not enough time to schedule daily or weekly meetings with a lawyer in person, so he/she would look for an asynchronous alternative way to have assistance with the legal processes that he/she needs to take care of.
 
-- The buyer persona has to be a common worker with an averwage wage, so he/she would look for a fair cost-benefit service.
+- The buyer persona has to be a common worker with an average wage, so he/she would look for a fair cost-benefit service.
 
-- The buyer persona has to be a young adult, so he/she would lack the knowledge on how to start or follow a legal process and may need some legal assitance.
+- The buyer persona has to be a young adult, so he/she would lack the knowledge on how to start or follow a legal process and may need some legal assistance.
 
 ![](./extra-files/01-buyer-persona.png)
 
@@ -163,7 +163,7 @@ From right to left and top to bottom are the views:
 
 ![](./extra-files/04-ui.png)
 
-Yeah, I know it doesn't look quite impresive, but that was my best effort. (⊙_⊙;)
+Yeah, I know it doesn't look quite impressive, but that was my best effort. (⊙_⊙;)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
